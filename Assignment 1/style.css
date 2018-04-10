@@ -50,3 +50,7 @@ background-color: gray;
 .sw-front{
 	z-index: 2;
 }
+
+.sw-border{
+	border: ridge;
+}
