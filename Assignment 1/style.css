@@ -54,3 +54,8 @@ background-color: gray;
 .sw-border{
 	border: ridge;
 }
+
+.sw-hover a:hover{
+	text-decoration: none;
+	color: red;
+}
