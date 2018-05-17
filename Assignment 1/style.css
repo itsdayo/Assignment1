@@ -15,47 +15,51 @@ body{
 .navbar-brand{
 	color: white;
 }
-.sw-font-white{
+.do-font-white{
 	color: white;
 }
 
-.sw-width{
+.do-width{
 	width: 100%;
 }
 
-.sw-left-padding{
+.do-left-padding{
 	padding-left: 10px; 
 }
 
-.sw-no-underline:hover{
+.do-no-underline:hover{
 	text-decoration: none;
 }
 
-.sw-gray{
+.do-gray{
 background-color: gray;
 }
 
-.sw-black{
+.do-black{
 	color: black;
 }
 
-.sw-80-width{
+.do-80-width{
 	width: 80%;
 }
-.sw-absolute-right{
+.do-absolute-right{
 	position: absolute;
 	right: 15px;
 }
 
-.sw-front{
+.do-front{
 	z-index: 2;
 }
 
-.sw-border{
+.do-border{
 	border: ridge;
 }
 
-.sw-hover a:hover{
+.do-hover a:hover{
 	text-decoration: none;
 	color: red;
+}
+
+.do-margin{
+	margin-top: 5px;
 }
