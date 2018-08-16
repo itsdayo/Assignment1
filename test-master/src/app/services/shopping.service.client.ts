@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { User } from '../models/user.model.client';
 import { map } from 'rxjs/operators'
 import {Response, RequestOptions} from '@angular/http';
-import { environment } from '../../environments/environment';
+
 import { Router } from '@angular/router';
 
 
@@ -11,7 +11,6 @@ import { Router } from '@angular/router';
 export class ShoppingService {
   constructor() { }
 counter: number= 0;
-
 
 
   counterClick() {
